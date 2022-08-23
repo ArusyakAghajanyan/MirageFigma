@@ -1,0 +1,32 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+.footer__socials {
+    margin-bottom: 28px;
+    display: inline-block;
+
+    color: var(--secondary-light)
+}
+
+.footer__image-wrapper {
+    margin-bottom: 38px;
+}
+
+.footer__details {
+    margin-bottom: 38px;
+    color: var(--secondary-light)
+}
+
+.footer__address {
+    margin-bottom: 16px;
+}
+
+.social-item {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.social-item:not(:last-child){
+    margin-right: 12px;
+}

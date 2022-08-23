@@ -1,0 +1,30 @@
+.testimonial {  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 194px; 
+}
+.testimonial-content { 
+ display: flex;
+ align-items: center;
+ justify-content: space-between; 
+
+}
+.testimonial__subtitle{
+    margin-bottom: 38px;
+}
+
+.testimonial__description {
+    width: 50%;
+}
+.
+
+.testimonial__image__wrapper {
+    width: 50%;
+
+}
+.testimonial__img {
+width: 100%;
+display: block;
+filter: drop-shadow(2px 4px 6px black);
+}

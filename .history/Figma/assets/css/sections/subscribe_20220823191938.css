@@ -1,0 +1,35 @@
+.subscribe {  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 160px; 
+}
+.subscribe-content { 
+ display: flex;
+ align-items: center;
+ justify-content: space-between; 
+
+}
+.sub__cont{
+
+    background-image: url(../../images/messagesent-image.svg);
+    background-repeat: no-repeat;
+    float: left;
+}
+.subscribe__subtitle{
+    margin-bottom: 18px;
+}
+.subscribe__details{
+    font-size: 20px;
+    justify-content: center;
+}
+
+.subscribe__description {
+    display: block;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+
+

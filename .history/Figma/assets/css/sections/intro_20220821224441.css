@@ -1,0 +1,47 @@
+.intro {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-top: 216px; */
+}
+.intro-content {
+    height: 100vh;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ /* espes gisht a heravorutyun pahelu hamar */
+  margin-top: 216px; 
+
+}
+.intro__description {
+    width: 50%;
+}
+
+.intro__subtitle {
+    font-size: 64px;
+    font-weight: 700;
+    color: var(--secondary);
+    margin: 31px;
+   margin-top: 29px;
+}
+
+.intro__button {
+    
+    display: flex;
+    align-items: center;
+}
+.intro__button-icon {
+    margin-left: 19px;
+}
+
+.intro__image__wrapper {
+    width: 50%;
+
+}
+intro__img{
+width: 100%;
+display: block;
+filter: drop-shadow(2px 4px 6px black)
+
+}

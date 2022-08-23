@@ -1,0 +1,36 @@
+.teamwork{  
+ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 270px; 
+}
+.teamwork-content {
+ 
+ display: flex;
+ align-items: center;
+ justify-content: space-between; 
+
+}
+.teamwork__description {
+    width: 50%;
+}
+
+.teamwork__button {
+    
+    display: flex;
+    align-items: center;
+}
+.teamwork__button-icon {
+    margin-left: 19px;
+}
+
+.teamwork__image__wrapper {
+    width: 50%;
+
+}
+.teamwork__img {
+width: 100%;
+display: block;
+filter: drop-shadow(2px 4px 6px black);
+}

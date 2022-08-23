@@ -1,0 +1,38 @@
+.design {  
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 194px; 
+}
+.design-content {
+ height: 100vh;  
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ /* espes gisht a heravorutyun pahelu hamar */
+ 
+
+}
+.design__description {
+    width: 50%;
+}
+
+.design__button {
+    
+    display: flex;
+    align-items: center;
+}
+.design__button-icon {
+    margin-left: 19px;
+}
+
+.design__image__wrapper {
+    width: 50%;
+
+}
+.design__img {
+width: 100%;
+display: block;
+filter: drop-shadow(2px 4px 6px black);
+}

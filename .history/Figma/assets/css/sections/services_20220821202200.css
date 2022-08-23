@@ -1,0 +1,21 @@
+.services {
+    margin-bottom: 173px;
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+.services-content {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: row;
+}
+
+
+
+
+
+
+.services__card-more-icon{
+    margin-left: 8px;
+}

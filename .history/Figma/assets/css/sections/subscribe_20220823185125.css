@@ -1,0 +1,43 @@
+.subscribe {  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 160px; 
+}
+.subscribe-content { 
+ display: flex;
+ align-items: center;
+ justify-content: space-between; 
+
+}
+.subscribe__subtitle{
+    margin-bottom: 18px;
+}
+
+.subscribe__description {
+    width: 50%;
+}
+
+.subscribe__image__wrapper {
+    width: 20%;
+
+}
+.testimonial__img {
+width: 100%;
+display: block;
+filter: drop-shadow(2px 4px 6px black);
+}
+
+.testimonial__partners {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 220px;
+}
+.testimonial__partners-logo{
+    width: 140px;
+    height: 46px;
+}
+.testimonial__partners-logo-image {
+width: 100%;
+display: block;
+}

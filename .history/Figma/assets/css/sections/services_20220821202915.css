@@ -1,0 +1,22 @@
+.services {
+    margin-top
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+    
+}
+.services-content {
+  
+    align-items: center;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+.services__card-more-icon{
+    margin-left: 8px;
+}

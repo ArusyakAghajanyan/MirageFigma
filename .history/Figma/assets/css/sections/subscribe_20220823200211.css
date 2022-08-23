@@ -1,0 +1,33 @@
+.subscribe{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 165px;
+   
+}
+.sub__cont{
+    background-image: url("../../images/messagesent-image.svg");
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: left; 
+}
+.subscribe__details{
+    font-size: 20px;
+    margin-top: 18px;
+}
+.subscribe__sent{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    width: 700px;
+    height: 82px;
+    background-color:  #FFFFFF;
+    border-radius: 4px;
+    box-shadow: gray;
+
+
+}
+.subscribe__button {
+    width: 178px;
+
+}

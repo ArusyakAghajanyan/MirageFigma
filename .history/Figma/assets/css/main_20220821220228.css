@@ -1,0 +1,21 @@
+html, body {
+    font-family: 'Figtree', sans-serif;
+    background-color: var(--background-light);
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 1130px;
+    margin: 0 auto;
+}
+.text-primary {
+    color: var(--primary);
+}
+.details{
+    .intro__details {
+        color: var(--secondary-light);
+        margin-bottom: 42px;
+        line-height: 32px;
+        font-size: 20px;
+    } 
+}

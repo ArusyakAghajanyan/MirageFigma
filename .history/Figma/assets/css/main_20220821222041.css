@@ -1,0 +1,32 @@
+html, body {
+    font-family: 'Figtree', sans-serif;
+    background-color: var(--background-light);
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 1130px;
+    margin: 0 auto;
+}
+.text-primary {
+    color: var(--primary);
+}
+
+.details{
+    color: var(--secondary-light);
+    margin-bottom: 42px;
+    line-height: 32px;
+    font-size: 20px; 
+    marg
+}
+.title {
+    font-size: 28px;
+    color: var(--primary);
+    margin-bottom: 15px;
+}
+.subtitle {
+    font-size: 52px;
+    font-weight: 700;
+    color: var(--secondary);
+    
+}

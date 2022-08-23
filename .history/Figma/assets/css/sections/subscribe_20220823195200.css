@@ -1,0 +1,6 @@
+.sub__cont{
+    background-image: url("../../images/messagesent-image.svg");
+}
+.sub__cont h1{
+    color: red;
+}

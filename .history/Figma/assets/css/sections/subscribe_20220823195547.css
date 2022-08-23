@@ -1,0 +1,10 @@
+.subscribe{
+    margin-top: 165px;
+   
+}
+.sub__cont{
+    background-image: url("../../images/messagesent-image.svg");
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: left; 
+}
